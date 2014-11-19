@@ -1,31 +1,25 @@
-Freelancer Jekyll theme
+EndlessCreation 2014
 =========================
 
-Jekyll theme based on [Freelancer bootstrap theme ](http://startbootstrap.com/templates/freelancer/)
 
-## How to use
- - Place a image in `/img/portoflio/`
- - Create posts to display your projects. Use the follow as an example:
-```txt
----
-layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: July 2014
-client: The Client
-category: Web Development
-description: The description of the project
+## 사용법
+ - 사람 이미지 넣는 곳 : `/img/member/`
+ - 사람 추가 방법은 `_members` 폴더를 참고
+ - 프로젝트 이미지 넣는 곳 :  `/img/portoflio/`
+ - 프로젝트 추가 방법은 `_posts` 폴더를 참고
 
----
+
+## 로컬에서 돌리는 방법
+Ruby 설치 후
+
+```ruby
+gem install jekyll
+// jekyll 설치후
+git clone https://github.com/ec2014e/ec2014e.github.com.git
+cd ec2014e.github.com
+jekyll serve
 ```
 
-## Demo
-View this jekyll theme in action [here](https://jeromelachaud.github.io/freelancer-theme)
-
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/jeromelachaud/freelancer-theme/master/screenshot.png)
 
 =========
-For more details, read [documentation](http://jekyllrb.com/)
+동아리에 들어온 것을 축하합니다. - 18기 박창주
