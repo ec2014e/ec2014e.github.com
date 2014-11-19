@@ -1,0 +1,43 @@
+# Site settings
+title: Endless Creation 2014
+email: ec2014e@gmail.com
+description_main: EC 24th 신입생 종합 작품 개발 대회
+description_sub: 2014년 11월 22일 토요일 미래관 109호
+description_time: 오후 1시 반부터 오후 7시까지
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 18bc9c #80B3FF
+  secondary: 2c3e50 #FD6E8A
+  secondary-dark: 233140 #A2122F
+
+# Footer settings
+footer:
+  copyright: Endless Creation
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/groups/238730472850269/
+  - title: github
+    url: http://github.com/endlesscreation
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 서울과학기술대학교
+  - line: 미래관 109호
+
+# Credits content
+credits: '서울 과학 기술 대학교 컴퓨터 공학과 학술 동아리 Endless Creation'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+
+# Custom Collections
+collections:
+  members:
+    output: true
