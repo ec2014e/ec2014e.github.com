@@ -10,7 +10,7 @@
             </div>
             <div class="row">
 
-                {% for post in site.posts order:descending%}
+                {% for post in site.posts %}
                     <div class="col-sm-4 portfolio-item">
                         <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
                             <div class="caption">
@@ -20,6 +20,7 @@
                             </div>
                             <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
                         </a>
+                        <h4 class="text-center">{{ post.project-title }} - {{ post.creator}}</h4>
                     </div>
                 {% endfor %}
             </div>

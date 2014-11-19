@@ -204,6 +204,12 @@ section.success {
     margin: 0 0 15px;
 }
 
+#portfolio .portfolio-item h3{
+    color: white;
+}
+#portfolio .portfolio-item h4{
+    color: white;
+}
 #portfolio .portfolio-item .portfolio-link {
     display: block;
     position: relative;
