@@ -28,7 +28,6 @@ jekyll serve
 - 여기로 오세요 부분에 지도 + 성혁이  덕주 내용 수정
 - 아래 LOCATION, AROUND THE WEB , CREDIT 부분 내용 수정
 - Portfolio에서 Modal 제스처로 닫기
-- 
 
 =========
 
