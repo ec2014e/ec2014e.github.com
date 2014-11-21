@@ -31,7 +31,9 @@ address:
   - line: 미래관 109호
 
 # Credits content
-credits: '서울 과학 기술 대학교 컴퓨터 공학과 학술 동아리 Endless Creation'
+credits: 
+  university: '서울 과학 기술 대학교 컴퓨터 공학과'
+  club: '학술 동아리 Endless Creation'
 
 # Build settings
 markdown: kramdown
