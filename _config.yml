@@ -32,8 +32,8 @@ address:
 
 # Credits content
 credits: 
-  university: '서울 과학 기술 대학교 컴퓨터 공학과'
-  club: '학술 동아리 Endless Creation'
+  university: '서울과학기술대학교 컴퓨터공학과'
+  club: '학술동아리 Endless Creation'
 
 # Build settings
 markdown: kramdown
