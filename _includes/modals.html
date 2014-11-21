@@ -26,9 +26,11 @@
                                     <strong>{{ post.category }}
                                     </strong>
                                 </li>
+                                {% if post.repository != null %}
                                 <li>코드 저장소:
                                     <strong><a href="{{ post.repository }}" target="_blank">코드보기</a></strong>
                                 </li>
+                                {% endif %}
                             </ul>
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
