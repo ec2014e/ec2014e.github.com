@@ -466,3 +466,11 @@ footer .footer-below {
 .member .description{
     color: grey;
 }
+
+#timetable .time {
+	color: #18bc9c;
+}
+
+#timetable .break {
+	color: gray;
+}
