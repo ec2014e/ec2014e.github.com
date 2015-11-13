@@ -2,8 +2,8 @@
 title: Endless Creation
 email: ec2014e@gmail.com
 description_main: EC 25th 신입생 종합 작품 개발 대회
-description_sub: 2015년 11월 21일 토요일 미래관 109호
-description_time: 오후 1시 반부터 오후 7시까지
+description_sub: 2015년 11월 21일 토요일 미래관 313호
+description_time: 오후 3시 부터 오후 7시까지
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: 18bc9c #80B3FF
@@ -28,7 +28,7 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: 서울과학기술대학교
-  - line: 미래관 109호
+  - line: 미래관 313호
 
 # Credits content
 credits: 
